@@ -1,6 +1,6 @@
 # topics
 
-#complaining
+# complaining
 https://www.greig.cc/complaining-is-silly-act-or-forget/
 https://dailystoic.com/a-stoic-response-to-complaining/
 
