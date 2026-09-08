@@ -20,7 +20,8 @@
 # religion
 - what is baps? who are the baps? https://en.wikipedia.org/wiki/Bochasanwasi_Akshar_Purushottam_Swaminarayan_Sanstha  
 
-- ``"BAPS is very bad news. They & Modi borrowed the right-wing christo-fascist playbook from Trump and did a find&replace for with muslims for immigrants. Fear, intolerance, discrimination against "others" has always been a recipe for success in populist politics, sadly. "
+```
+"BAPS is very bad news. They & Modi borrowed the right-wing christo-fascist playbook from Trump and did a find&replace for with muslims for immigrants. Fear, intolerance, discrimination against "others" has always been a recipe for success in populist politics, sadly. "
 ```
 
 ```
