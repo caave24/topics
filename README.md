@@ -29,3 +29,6 @@
 
 - All those extravagant and big temples you see in the US are built by BAPs. Do not go there even as tourists. It is a cult.
 ```
+
+https://www.reddit.com/r/SPAB/comments/1m5731s/is_baps_a_cult_lets_talk_about_the_signs/
+https://www.reddit.com/r/SPAB/
