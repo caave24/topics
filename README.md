@@ -19,7 +19,7 @@
 
 # religion
 - what is baps? who are the baps? https://en.wikipedia.org/wiki/Bochasanwasi_Akshar_Purushottam_Swaminarayan_Sanstha  
-https://www.reddit.com/r/worldnews/comments/1wa0hsn/eiffel_tower_workers_go_on_strike_after_female
+- https://www.reddit.com/r/worldnews/comments/1wa0hsn/eiffel_tower_workers_go_on_strike_after_female
 ```
 "BAPS is very bad news. They & Modi borrowed the right-wing christo-fascist playbook from Trump and did a find&replace for with muslims for immigrants. Fear, intolerance, discrimination against "others" has always been a recipe for success in populist politics, sadly. "
 ```
