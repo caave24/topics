@@ -16,3 +16,15 @@
 # new things
 
 # act of creativity
+
+# religion
+- what is baps? who are the baps? https://en.wikipedia.org/wiki/Bochasanwasi_Akshar_Purushottam_Swaminarayan_Sanstha  
+
+``"BAPS is very bad news. They & Modi borrowed the right-wing christo-fascist playbook from Trump and did a find&replace for with muslims for immigrants. Fear, intolerance, discrimination against "others" has always been a recipe for success in populist politics, sadly. "
+```
+
+```
+BAPs is a cult with big pockets. Anyone who is Swaminarayan can fuck all the way off. Didn't the FBI raid their New Jersey location because of forced labour? Did they just pay them off because I never saw if there were any charges or arrests.
+
+All those extravagant and big temples you see in the US are built by BAPs. Do not go there even as tourists. It is a cult.
+```
