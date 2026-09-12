@@ -161,4 +161,29 @@ META — 2026
 $17.1B settlement
 Facebook & Instagram accused of intentionally addictive design
 51 state attorneys general
-New restrictions & child-safety reforms```
+New restrictions & child-safety reforms
+```
+
+And Amazon is a good example of how subtle this can be.
+
+Look at the checkout interface. One action gets the big bordered button. Another option might just look like a small text link.
+
+Technically, both choices are there.
+
+But they're not being presented equally.
+
+And that's the important part about dark patterns: you don't necessarily have to hide an option to discourage someone from choosing it. You can just make one choice look like the obvious, normal, recommended thing to do.
+
+That's interface design influencing behavior.
+
+| Company | What happened | Why it's useful |
+|---|---|---|
+| **Amazon** | FTC accused Amazon of using UI “dark patterns” to enroll people in Prime and make cancellation difficult. | **Direct dark-pattern case.** |
+| **Epic Games / Fortnite** | FTC said Fortnite used deceptive techniques that caused players to make unintended purchases; **$245M** consumer refund settlement. | Very concrete example of UI manipulating purchases. |
+| **TikTok** | EU/Ireland regulators found TikTok's design nudged children toward less-private settings; **€345M fine**. | Great example of the interface itself steering behavior. |
+| **Google** | Google's interface choices around privacy/data sharing have faced regulatory action; Google's consent interfaces were specifically identified in deceptive-pattern case databases. | Shows dark patterns aren't limited to shopping. |
+| **Vonage** | FTC alleged the company made it difficult for customers to cancel subscriptions; **$100M settlement**. | Excellent “easy to subscribe, hard to leave” example. |
+| **Noom** | **$62M settlement** over allegations involving deceptive subscription practices. | Another subscription/cancellation example. |
+| **ABCmouse / Age of Learning** | FTC action involving subscription practices and difficulty cancelling; **$10M settlement**. | Good example involving a service used by families. |
+| **Adore Me** | Vermont-led action over hidden subscriptions, misleading limited-time discounts and obstructing cancellations; **$2.35M settlement**. | Multiple classic dark-pattern techniques in one case. |
+| **HomeAdvisor** | FTC alleged deceptive representations about pricing and subscription services; **$7.2M penalty**. | Good example of misleading information combined with interface/business practices. |
