@@ -74,71 +74,71 @@ How Fake Populism WorksAnti-Elite Language: Leaders claim they are fighting a co
 
 # Dark Patterns, Manipulation, and the Business of Deception
 
-Meta is a good place to start because the news is still fresh.
+- Meta is a good place to start because the news is still fresh.
 
-The recent cases involving Facebook and Instagram aren't necessarily a dark-pattern case in the narrow, traditional sense. But they are part of the same much bigger conversation: **manipulation through the design of digital experiences.**
+- The recent cases involving Facebook and Instagram aren't necessarily a dark-pattern case in the narrow, traditional sense. But they are part of the same much bigger conversation: **manipulation through the design of digital experiences.**
 
-And that's important, because manipulation isn't some new thing that showed up with AI.
+- And that's important, because manipulation isn't some new thing that showed up with AI.
 
-It's been around for a long time.
+- It's been around for a long time.
 
-Lying to people to get them to do something.
-Hiding information so they make a decision they otherwise wouldn't make.
-Making one choice easy and another choice difficult.
-Using psychology, incentives, pressure, or deception to push someone toward a particular behavior.
+- Lying to people to get them to do something.
+- Hiding information so they make a decision they otherwise wouldn't make.
+- Making one choice easy and another choice difficult.
+- Using psychology, incentives, pressure, or deception to push someone toward a particular behavior.
 
-We've been doing this in business for a very long time.
+- We've been doing this in business for a very long time.
 
-But when you start doing it through a website, an app, or a digital product — when the user experience itself is deliberately crafted to guide someone toward a certain behavior — we've given some of those techniques a name:
+- But when you start doing it through a website, an app, or a digital product — when the user experience itself is deliberately crafted to guide someone toward a certain behavior — we've given some of those techniques a name:
 
-**Dark patterns.**
+- **Dark patterns.**
 
-Things like making the "Accept" button huge while hiding "Reject" somewhere else.
+- Things like making the "Accept" button huge while hiding "Reject" somewhere else.
 
-Making a cancellation process confusing and difficult.
+- Making a cancellation process confusing and difficult.
 
-Using fake countdowns or artificial urgency.
+- Using fake countdowns or artificial urgency.
 
-Preselecting an option because the company wants you to choose it.
+- Preselecting an option because the company wants you to choose it.
 
-Using language designed to make you feel guilty for saying no.
+- Using language designed to make you feel guilty for saying no.
 
-Or presenting something as free, only to make the actual cost appear later.
+- Or presenting something as free, only to make the actual cost appear later.
 
-These aren't accidents.
+- These aren't accidents.
 
-Sometimes they can be bad design. Sometimes they're confusing interfaces. But sometimes the confusion is the point.
+- Sometimes they can be bad design. Sometimes they're confusing interfaces. But sometimes the confusion is the point.
 
-The design is doing a job.
+- The design is doing a job.
 
-And that job isn't necessarily helping **you** make a decision.
+- And that job isn't necessarily helping **you** make a decision.
 
-It's helping the company get the decision it wants.
+- It's helping the company get the decision it wants.
 
-That's the distinction I want to focus on.
+- That's the distinction I want to focus on.
 
-**Good design helps you make a decision.
-Dark design tries to make the decision for you.**
+- **Good design helps you make a decision.
+- Dark design tries to make the decision for you.**
 
-And once you start looking at manipulation this way, it becomes much bigger than a few annoying buttons on a website.
+- And once you start looking at manipulation this way, it becomes much bigger than a few annoying buttons on a website.
 
-Because the technology keeps changing.
+- Because the technology keeps changing.
 
-The manipulation doesn't.
+- The manipulation doesn't.
 
-We now have social media feeds designed around keeping us engaged.
+- We now have social media feeds designed around keeping us engaged.
 
-Recommendation systems deciding what we're shown next.
+- Recommendation systems deciding what we're shown next.
 
-Advertising that can be targeted to incredibly specific groups of people.
+- Advertising that can be targeted to incredibly specific groups of people.
 
-And now AI systems that can generate images, voices, and videos that never existed in the first place.
+- And now AI systems that can generate images, voices, and videos that never existed in the first place.
 
-At that point, the interface isn't always a website anymore.
+- At that point, the interface isn't always a website anymore.
 
-Sometimes **the interface is the video itself.**
+- Sometimes **the interface is the video itself.**
 
-And that's where this conversation gets much more serious.
+- And that's where this conversation gets much more serious.
 
 
 ```META — FACEBOOK & INSTAGRAM
