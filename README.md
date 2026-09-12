@@ -72,3 +72,93 @@ How Fake Populism WorksAnti-Elite Language: Leaders claim they are fighting a co
 * [Reddit — r/darkpatterns](https://www.reddit.com/r/darkpatterns/)
 * The Rasel Ahmed LinkedIn post is interesting as a *perspective*, but I wouldn't use it as evidence for a factual claim.
 
+# Dark Patterns, Manipulation, and the Business of Deception
+
+Meta is a good place to start because the news is still fresh.
+
+The recent cases involving Facebook and Instagram aren't necessarily a dark-pattern case in the narrow, traditional sense. But they are part of the same much bigger conversation: **manipulation through the design of digital experiences.**
+
+And that's important, because manipulation isn't some new thing that showed up with AI.
+
+It's been around for a long time.
+
+Lying to people to get them to do something.
+Hiding information so they make a decision they otherwise wouldn't make.
+Making one choice easy and another choice difficult.
+Using psychology, incentives, pressure, or deception to push someone toward a particular behavior.
+
+We've been doing this in business for a very long time.
+
+But when you start doing it through a website, an app, or a digital product — when the user experience itself is deliberately crafted to guide someone toward a certain behavior — we've given some of those techniques a name:
+
+**Dark patterns.**
+
+Things like making the "Accept" button huge while hiding "Reject" somewhere else.
+
+Making a cancellation process confusing and difficult.
+
+Using fake countdowns or artificial urgency.
+
+Preselecting an option because the company wants you to choose it.
+
+Using language designed to make you feel guilty for saying no.
+
+Or presenting something as free, only to make the actual cost appear later.
+
+These aren't accidents.
+
+Sometimes they can be bad design. Sometimes they're confusing interfaces. But sometimes the confusion is the point.
+
+The design is doing a job.
+
+And that job isn't necessarily helping **you** make a decision.
+
+It's helping the company get the decision it wants.
+
+That's the distinction I want to focus on.
+
+**Good design helps you make a decision.
+Dark design tries to make the decision for you.**
+
+And once you start looking at manipulation this way, it becomes much bigger than a few annoying buttons on a website.
+
+Because the technology keeps changing.
+
+The manipulation doesn't.
+
+We now have social media feeds designed around keeping us engaged.
+
+Recommendation systems deciding what we're shown next.
+
+Advertising that can be targeted to incredibly specific groups of people.
+
+And now AI systems that can generate images, voices, and videos that never existed in the first place.
+
+At that point, the interface isn't always a website anymore.
+
+Sometimes **the interface is the video itself.**
+
+And that's where this conversation gets much more serious.
+
+
+```META — FACEBOOK & INSTAGRAM
+
+August 2026
+
+Meta agreed to pay up to $17.1 billion in a multistate settlement.
+51 state attorneys general alleged that Facebook and Instagram were intentionally designed to be addictive to children and teens.
+The allegations focused on product design and engagement practices that encouraged prolonged and compulsive use.
+Meta agreed to new child-safety measures and restrictions on how minors use Facebook and Instagram.
+The settlement is one of the largest state consumer-protection settlements involving a technology company.
+
+The connection to this video:
+
+When the product is designed to influence your behavior, the design itself becomes part of the business model.
+
+And for an even more compact screen while you're talking:
+
+META — 2026
+$17.1B settlement
+Facebook & Instagram accused of intentionally addictive design
+51 state attorneys general
+New restrictions & child-safety reforms```
