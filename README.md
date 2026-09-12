@@ -50,24 +50,24 @@ How Fake Populism WorksAnti-Elite Language: Leaders claim they are fighting a co
 - ---
 
 # dark patterns
-## Definition / history
+- ## Definition / history
 
 * [Deceptive Patterns](https://deceptive.design) — especially useful because it gives you the history of the term and examples.
 * [Wikipedia — Dark pattern](https://en.wikipedia.org/wiki/Dark_pattern) — useful as a general reference, but I wouldn't make it your strongest authority.
 
-## Evidence that this is a real consumer problem
+- ## Evidence that this is a real consumer problem
 
 * [FTC — Rise of Sophisticated Dark Patterns](https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers) — this is probably the strongest source to cite when you move from *“I've seen this”* to *“companies actually use these techniques.”*
 
-## Examples / visual research
+- ## Examples / visual research
 
 * [Eleken — Dark Pattern Examples](https://www.eleken.co/blog-posts/dark-patterns-examples)
 * [Dark Patterns Hall of Shame](https://hallofshame.design)
 * [UXP2 — Dark Patterns](https://darkpatterns.uxp2.com)
 
-These are great for finding **actual visual examples** rather than spending your narration explaining hypothetical ones.
+- These are great for finding **actual visual examples** rather than spending your narration explaining hypothetical ones.
 
-## Community / discussion
+- ## Community / discussion
 
 * [Reddit — r/darkpatterns](https://www.reddit.com/r/darkpatterns/)
 * The Rasel Ahmed LinkedIn post is interesting as a *perspective*, but I wouldn't use it as evidence for a factual claim.
