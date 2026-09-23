@@ -1,8 +1,17 @@
 # topics
 
+# how to write a problem statement
+1 id the problem
+2 put the problem into context
+3 find root cause
+4 describe ideal world
+5 propose solution + benefits
+
+
 # define a problem
 - move to market approach
 - minto method sqca
+
 
 
 # complaining
