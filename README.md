@@ -1,5 +1,15 @@
 # topics
 
+# elements of a problem statement
+- gap - what's not working what what needs to be solved
+- orientation - describe when and where the issue shows up
+- impact - consequences for users, customers, teams or businesses
+- importance - why solving this problem matters
+
+# problem + research
+- define issue
+- gather info about issue
+
 # how to write a problem statement
 - 1 id the problem
 - 2 put the problem into context
