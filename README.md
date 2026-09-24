@@ -1,9 +1,9 @@
 # topics
 
 # steps to present ideas
-- grab attention with the gap, contrasts current reality with how things should be.
-- keep solution agnostic, resist pitch until the audience feels the pain of the problem
-- use simple language, and avoid heavy jargon
+- grab attention with the gap: contrasts current reality with how things should be.
+- keep solution agnostic: resist pitch until the audience feels the pain of the problem
+- use simple language: and avoid heavy jargon
 - pivot effectively: intro solutions as the natural, logical bridge of gap.
 
 # core elements of a problem statement
